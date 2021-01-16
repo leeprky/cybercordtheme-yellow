@@ -1301,7 +1301,6 @@ html.theme-dark .theme-light .footer-2gL1pp {
 .search-2oPWTC .searchBar-3dMhjb {width:25px;transition-duration:600ms;}
 .search-2oPWTC .searchBar-3dMhjb:hover {width:250px !important;}
 .search-2oPWTC.open-6_Y_aH .searchBar-3dMhjb {width: 250px !important;}
-/** 766784454974373889 */
 
 .item-PXvHYJ[data-item-id=pc-updater] {
     height: 4.65rem;
@@ -1339,10 +1338,6 @@ html.theme-dark .theme-light .footer-2gL1pp {
     max-height: 75vh;
 }
 
- * Snippet from #css-snippets applied the 1 Jan 2021 at 15:21:10
- * Created by MulverineX#0001 (178551656714076161)
- * Snippet ID: 761818920905998356
- */
 img[src="/assets/9a43e631d506ae4818ecefc825dc02ad.svg"],
 img[src="/assets/13c8662cff8e029799a35878b56e23eb.svg"] { 
   filter: invert(1); 
@@ -1427,7 +1422,6 @@ img[src="/assets/13c8662cff8e029799a35878b56e23eb.svg"] {
 ​.item-1tOPte, .menu-3sdvDG.styleFlexible-wGDiIL { border-radius: 20px; }
 .submenu-2-ysNh.menu-3sdvDG { border-radius: 21px; }
 .item-1tOPte.labelContainer-1BLJti.colorDefault-2K3EoJ.focused-3afm-j { left: -1.5px; }
-/** 795136183021338654 */
 
 .iconWrapper-2OrFZ1[aria-label="Update Ready!"] {
   position: fixed;
