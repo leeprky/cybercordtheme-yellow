@@ -399,25 +399,25 @@ span[class*="botTagRegular"] {
 
 :root {
   /* self explanatory (hopefully) */
-  --background-accent: #14171f; !important;
+  --background-accent: #121212; !important;
 
   /* colour of links (including in embeds) */
   --text-link: #D6D600;
 
   /* colour of right hand side of screen and chat */
-  --background-primary: #181c25 !important;
+  --background-primary: #121212 !important;
 
   /* embed backround/text channel list/member list colour */
-  --background-secondary: #14171f !important;
+  --background-secondary: #121212 !important;
 
   /* colour of change status/mute mic/deafen/user settings patch */
-  --background-secondary-alt: #0c0e13 !important;
+  --background-secondary-alt: #121212 !important;
 
   /* colour of panel when you click on server name/edit message */
-  --background-floating: #0c0e13 !important;
+  --background-floating: #121212 !important;
 
   /* colour of border around [top of] discord */
-  --background-tertiary: #0c0e13 !important;
+  --background-tertiary: #121212 !important;
 
   /* colour of text box that you type in */
   --channeltextarea-background: var(--background-accent) !important;
@@ -434,7 +434,7 @@ span[class*="botTagRegular"] {
   --message-hover: #15181e !important;
 
   /* colour of search bar */
-  --search-menu-colour: #0c0e13 !important;
+  --search-menu-colour: #121212 !important;
 
   /* colour of spoilered text */
   --spoiler-colour: #00000d;
@@ -461,7 +461,7 @@ span[class*="botTagRegular"] {
 
   /* colour of things that are currently selected (e.g. colour of
   channel name that you are participating in) */
-  --interactive-active: #fff !important;
+  --interactive-active: #D6D600 !important;
 
   /* colour of muted channel names */
   --interactive-muted: #30343d !important;
@@ -883,7 +883,7 @@ amazing LuckFire#4800! */
     }
 }
 
-.powercord-spotify{background-color:#0C0E13!important;padding-bottom:10px!important;border-top: 1px solid #0C0E13!important;border-bottom: 1px solid #0C0E13!important;}
+.powercord-spotify{background-color:#121212!important;padding-bottom:10px!important;border-top: 1px solid #121212!important;border-bottom: 1px solid #121212!important;}
 .powercord-spotify img{border-radius:0!important}
 .powercord-spotify .spotify-seek-bar{height:4px!important;border-radius:2px!important;margin-left:15px!important;margin-right:15px!important;background:#404040!important}
 .powercord-spotify .spotify-seek-bar-progress{background:#D6D600!important;border-radius:42px!important}
