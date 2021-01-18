@@ -5,7 +5,7 @@
 /* BLURPLE YELLOW */
 
 :root {
-    --alt-color: 214, 214, 50; /* Must be an rgb color for opacity to work */
+    --alt-color: 214, 214, 0; /* Must be an rgb color for opacity to work */
     --radio-group-dot-foreground: rgba(var(--alt-color));
 }
 
@@ -823,7 +823,7 @@ amazing LuckFire#4800! */
   .minimum-28Z35l > .root-217Brm,
   .video--KPXCT > .root-217Brm {
     background:
-      url("https://cdn.discordapp.com/attachments/706617700776018034/799761939151978536/cyberpunk-yellow.png")
+      url("https://cdn.discordapp.com/attachments/706617700776018034/800758523998896168/e047195cfd12bcd2aab351643d773d9f.jpg")
       center/100% no-repeat;
   }
   .minimum-28Z35l > .root-217Brm::before,
@@ -1303,6 +1303,7 @@ html.theme-dark .theme-light .footer-2gL1pp {
 .search-2oPWTC .searchBar-3dMhjb:hover {width:250px !important;}
 .search-2oPWTC.open-6_Y_aH .searchBar-3dMhjb {width: 250px !important;}
 
+
 .item-PXvHYJ[data-item-id=pc-updater] {
     height: 4.65rem;
     align-items: unset !important;
@@ -1338,6 +1339,7 @@ html.theme-dark .theme-light .footer-2gL1pp {
     overflow-y: auto;
     max-height: 75vh;
 }
+
 
 img[src="/assets/9a43e631d506ae4818ecefc825dc02ad.svg"],
 img[src="/assets/13c8662cff8e029799a35878b56e23eb.svg"] { 
@@ -1503,7 +1505,6 @@ img[src="/assets/13c8662cff8e029799a35878b56e23eb.svg"] {
     transform: scale(1.02);
 }
 
-
 :root{
  
   --ColChat: white;
@@ -1521,5 +1522,3 @@ img[src="/assets/13c8662cff8e029799a35878b56e23eb.svg"] {
   --rs-invisible-color: #747f8d;
 
 }
-
-
