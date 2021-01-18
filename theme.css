@@ -1493,3 +1493,11 @@ img[src="/assets/13c8662cff8e029799a35878b56e23eb.svg"] {
 .item-1tOPte, .menu-3sdvDG.styleFlexible-wGDiIL { border-radius: 20px; }
 .submenu-2-ysNh.menu-3sdvDG { border-radius: 21px; }
 .item-1tOPte.labelContainer-1BLJti.colorDefault-2K3EoJ.focused-3afm-j { left: -1.5px; }
+
+.base-1pYU8j {
+    transition: all 0.5s;
+}
+.base-1pYU8j:hover {
+    transition: all 0s;
+    transform: scale(1.02);
+}
