@@ -1502,7 +1502,11 @@ img[src="/assets/13c8662cff8e029799a35878b56e23eb.svg"] {
     transform: scale(1.02);
 }
 
+
 :root{
+ 
+  --ColChat: white;
+  --text-link: var(--ColLink);
 
   --rs-small-spacing: 2px;
   --rs-large-spacing: 2px;
@@ -1515,9 +1519,6 @@ img[src="/assets/13c8662cff8e029799a35878b56e23eb.svg"] {
   --rs-streaming-color: #643da7;
   --rs-invisible-color: #747f8d;
 
-  --columns: 2;
-  --guildsize: 50;
-  --guildgap: 2;
-  --aligndms: 0;
-
 }
+
+
