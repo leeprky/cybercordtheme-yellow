@@ -1519,9 +1519,7 @@ img[src="/assets/13c8662cff8e029799a35878b56e23eb.svg"] {
 }
 
 :root{
- 
-  --ColChat: white;
-  --text-link: var(--ColLink);
+
 
   --rs-small-spacing: 2px;
   --rs-large-spacing: 2px;
