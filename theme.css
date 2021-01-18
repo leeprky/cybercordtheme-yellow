@@ -881,6 +881,19 @@ amazing LuckFire#4800! */
     }
 }
 
+.powercord-spotify{background-color:#0C0E13!important;padding-bottom:10px!important;border-top: 1px solid #0C0E13!important;border-bottom: 1px solid #0C0E13!important;}
+.powercord-spotify img{border-radius:0!important}
+.powercord-spotify .spotify-seek-bar{height:4px!important;border-radius:2px!important;margin-left:15px!important;margin-right:15px!important;background:#404040!important}
+.powercord-spotify .spotify-seek-bar-progress{background:#D6D600!important;border-radius:42px!important}
+.powercord-spotify .container-3baos1{background-color:transparent!important}
+.powercord-spotify .container-3baos1 .nameTag-3uD-yy .title-eS5yk3{color:#fff!important}
+.powercord-spotify .container-3baos1 .nameTag-3uD-yy .subtext-3CDbHg{color:#0C0E13!important;overflow-x:hidden!important;text-indent:-15px!important}
+.powercord-spotify .spotify-buttons button{background:0 0!important;}
+.powercord-spotify .spotify-seek-elements,.powercord-spotify.hover .spotify-seek-elements{color:#D6D600!important;font-size:70%!important;margin-top:3px!important;margin-left:10px!important;margin-right:10px!important}
+.powercord-spotify .horizontal-1ae9ci *{width:0!important;overflow:hidden!important;opacity:0!important;display:none!important}
+.powercord-spotify:hover .horizontal-1ae9ci *{width:32px!important;overflow:visible!important;opacity:1!important;display:block!important}
+
+
 ===================
 
 .message-2qnXI6[data-author-id="U224524143482241035"] .username-1A8OIy {
