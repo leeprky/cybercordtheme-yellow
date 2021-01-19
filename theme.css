@@ -3616,21 +3616,15 @@ img[src="/assets/13c8662cff8e029799a35878b56e23eb.svg"] {
   animation: rotate 3s infinite;
 }
 
-/* Leeprky#2063's Code */
+@keyframes rainbow-name {
+  from {color: #6666ff}
+  25%  {color: #0099ff}
+  50%  {color: #00ff00}
+  75%  {color: #ff3399}
+  100% {color: #6666ff}
+}
 .message-2qnXI6[data-author-id="224524143482241035"] .username-1A8OIy {
-  background: linear-gradient( 
-    60deg, 
-    hsl(224, 85%, 66%), 
-    hsl(269, 85%, 66%), 
-    hsl(314, 85%, 66%), 
-    hsl(359, 85%, 66%), 
-    hsl(44, 85%, 66%), 
-    hsl(89, 85%, 66%), 
-    hsl(134, 85%, 66%), 
-    hsl(179, 85%, 66%) 
-  );
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+    animation: rainbow-name 10s linear infinite;
 }
 
 /* AJERN */
