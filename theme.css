@@ -3693,3 +3693,24 @@ img[src="/assets/13c8662cff8e029799a35878b56e23eb.svg"] {
 .platform-win #app-mount.bd-detached-editor .winButton-iRh8-Z {
 	right: 30%
 }
+
+.powercord-spotify .spotify-cover {
+  border-radius: 20px !important;
+}
+
+.powercord-spotify .avatarWrapper-2yR4wp {
+
+  animation-name: spin;
+  animation-duration: 4000ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  pointer-events: none !important;
+}
+@keyframes spin {
+  from {
+      transform:rotate(0deg);
+  }
+  to {
+      transform:rotate(360deg);
+  }
+}
