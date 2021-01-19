@@ -431,7 +431,7 @@ span[class*="botTagRegular"] {
   --channels-default: #D6D600 !important;
 
   /* colour of message when hovering over it */
-  --message-hover: #15181e !important;
+  --message-hover: #202020 !important;
 
   /* colour of search bar */
   --search-menu-colour: #121212 !important;
