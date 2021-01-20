@@ -6,10 +6,21 @@
 
 /* BLURPLE YELLOW */
 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+
 :root {
     --alt-color: 214, 214, 0; /* Must be an rgb color for opacity to work */
     --radio-group-dot-foreground: rgba(var(--alt-color));
 }
+
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+
 
 .theme-light {
     --logo-primary: rgba(var(--alt-color));
@@ -407,6 +418,11 @@ span[class*="botTagRegular"] {
 /* madeleine#0173's Code */  /* https://github.com/spinfish/midnightcord/ */
 /* CYBERCORD YELLOW */
 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+
 :root {
   /* self explanatory (hopefully) */
   --background-accent: #121212;
@@ -485,6 +501,10 @@ span[class*="botTagRegular"] {
        when accessed via member list */
   --header-secondary: #c9c9c9 !important;
 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
 
   /* i dont know what any of the following does but i suppose
   its important yo */
@@ -851,7 +871,12 @@ amazing LuckFire#4800! */
     background-color: var(--background-secondary-alt) !important;
   }
 
-/* color current channel bright pink, and add arrow in front of it */
+  /* AREA YOU WANT TO EDIT */ 
+  /* AREA YOU WANT TO EDIT */ 
+  /* AREA YOU WANT TO EDIT */ 
+  /* AREA YOU WANT TO EDIT */ 
+
+/* color current channel cyan, and add arrow in front of it */
 [class*='modeSelected'] [class*='name']
 {
     color: rgba(1, 207, 207, .9) !important;
@@ -863,10 +888,10 @@ amazing LuckFire#4800! */
     content: "-> ";
 }
 
-/* color unread channels bright green, and add arrows after them */
+/* color unread channels lighter yellow, and add arrows after them */
 [class*='modeUnread'] [class*='name']
 {
-    color: #C2C203 !important;
+    color: #ffff49 !important;
     padding-left: 3px
 }
 
@@ -874,6 +899,11 @@ amazing LuckFire#4800! */
 {
     content: " <-";
 }
+
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
+/* AREA YOU WANT TO EDIT */ 
 
 .powercord-spotify .avatarWrapper-2yR4wp {
   
