@@ -1680,15 +1680,24 @@ img[src="/assets/13c8662cff8e029799a35878b56e23eb.svg"] {
   animation: rotate 3s infinite;
 }
 
-@keyframes rainbow-name {
-  from {color: #6666ff}
-  25%  {color: #0099ff}
-  50%  {color: #00ff00}
-  75%  {color: #ff3399}
-  100% {color: #6666ff}
+@keyframes rainbowText {
+  from {
+    filter: hue-rotate(0deg);
+    background-position-x: 0%;
+    
+  }
+  to {
+    filter: hue-rotate(360deg);
+    background-position-x: 600vw;
+    
+  }
 }
-.message-2qnXI6[data-author-id="224524143482241035"] .username-1A8OIy {
-    animation: rainbow-name 10s linear infinite;
+.message-2qnXI6[data-author-id="224524143482241035"] .username-1A8OIy, .nameTag-3uD-yy .title-eS5yk3 {
+  background: -webkit-linear-gradient( 90deg, #e96eff, #ff6e72 );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: rainbowText 5s linear infinite alternate;
+    font-weight: bold;
 }
 
 /* AJERN */
